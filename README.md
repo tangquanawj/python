@@ -1,2 +1,2 @@
 # python
-python学习记录
+python学习过程中的笔记
