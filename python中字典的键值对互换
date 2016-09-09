@@ -1,0 +1,5 @@
+# coding:utf-8
+myDict = {'a':1,'b':2},'c':3}
+print(myDict)
+myDict = {v:k for k,v in myDict}
+print(myDict)
